@@ -1,9 +1,9 @@
 ### Hi there, I'm Sahith Manchi - 
 
 ## I'm a Backend Java developer
-- 🔭 I’m currently working on a Crio Do [website]!
+- 🔭 I’m currently working JAVA Developer !
 - 🌱 I’m currently dealing with application backend development
-- 👯 I’m looking for Java Developer position
+- 👯 I’m looking for Java Developer freelance opportunity
 
 ### Connect with me:
 
